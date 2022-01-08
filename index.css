@@ -1,0 +1,8 @@
+.cabecalho, h1 {
+color: blue;
+}
+
+p{
+flex-box: 1;
+ font-size: 25px;   
+}
