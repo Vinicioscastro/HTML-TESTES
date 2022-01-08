@@ -3,6 +3,6 @@ color: blue;
 }
 
 p{
-flex-box: 1;
+/**flex-box: 1; */
  font-size: 25px;   
 }
