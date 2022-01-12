@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+    font: white;
+}
+.tela{
+    background-color: blueviolet;
+    width: 100vm;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.vermelho{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 25px;
+    
+}
+
+.azul{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 25px;
+    
+}
+.bola{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.azul , .vermelho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.nav{
+    background-color: aqua;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+}
+.item{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+ul, li{
+    color: black;
+    display: flex;
+    margin-right:  20px;
+    align-items: center;   
+}
+h1{
+    color: blueviolet;
+    display: flex;
+    align-content: left;
+    justify-content: left;
+    
+}
