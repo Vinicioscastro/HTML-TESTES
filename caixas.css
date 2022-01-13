@@ -39,38 +39,28 @@ body{
     justify-content: center;
 
 }
-.nav{
+nav {
     background-color: aqua;
     color: black;
     display: flex;
     flex-direction: row;
     align-content: center;
-    justify-content: center;
+    align-items: center;
+    justify-content: right;
 }
-.item{
-    color: white;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-content: center;
-}
-ul, li{
+
+
+nav ul, li{
     color: black;
     display: flex;
-    margin-right:  20px;
-    align-items: center;   
+    margin-right: 20px;
 }
-h1{
-    color: blueviolet;
+nav h1{
+    color: red;
     display: flex;
-    align-content: left;
-    justify-content: left;
     
 }
-.nome{
-    display: flex;
-    justify-content: left;
-    align-content: left;
-    justify-items: left;
-    align-items: left;
-}
+
+
+
+
