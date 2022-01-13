@@ -67,3 +67,10 @@ h1{
     justify-content: left;
     
 }
+.nome{
+    display: flex;
+    justify-content: left;
+    align-content: left;
+    justify-items: left;
+    align-items: left;
+}
