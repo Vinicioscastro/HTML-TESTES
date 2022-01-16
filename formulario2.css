@@ -8,12 +8,11 @@ body{
     width: 100%;
 }
 fieldset{
-    display: flex;
+    
     margin-right: 25px;
     margin-top: 25px;
     background-color: blueviolet;
     padding: 25px;
-    position: relative;
-    position: absolute;
+    
     
 }
