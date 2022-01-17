@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    display: flex;
+}
+
+.navb{
+    height: 70px;
+    width: 100%;
+    background-color: aquamarine;
+    justify-content: center;
+    display: flex;
+    
+}
+.navb .logo h1{
+    color: blue;
+}
+
+.logo{
+    background-color: brown;
+    justify-content: right;
+
+}
+
+.item{
+    background-color: blueviolet;
+
+}
