@@ -1,11 +1,12 @@
 body{
-    display: flex;
+    
     grid-column: auto;
     background-color: aqua;
     position: absolute;
     align-items: center;
     justify-content: center;
     width: 100%;
+    
 }
 fieldset{
     
@@ -13,6 +14,16 @@ fieldset{
     margin-top: 25px;
     background-color: blueviolet;
     padding: 25px;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
     
     
+}
+#time{
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
 }
