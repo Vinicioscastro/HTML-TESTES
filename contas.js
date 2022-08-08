@@ -12,3 +12,5 @@ saldo = tenho - total;
 console.log(`total ${total}`);
 
 console.log(`Saldo: ${saldo}`);
+
+//ikervinicios
